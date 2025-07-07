@@ -8,7 +8,7 @@ This project analyzes a dataset of over 15,000 global AI job postings in 2025 to
 
 - **Top Countries for Entry-Level AI Salaries**: Switzerland, Denmark, and Norway offer the highest average starting salaries.
 - **Salary Progression**: Salary growth is strongest in Northern Europe and the US.
-- **Most Requested Skills**: Python, SQL, Machine Learning, Deep Learning, and Data Science frameworks appear most frequently in job requirements.
+- **Most Requested Skills**: Python, SQL, Tensorflow appear most frequently in job requirements.
 
 ---
 
